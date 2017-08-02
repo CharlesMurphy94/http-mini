@@ -3,16 +3,41 @@
     {
       "id": 0,
       "recruit": "Bill the Archer"
-    }
-  ],
-  "undead": [
+    },
     {
-      "id": 1,
-      "name": "Undead Army",
-      "shortname": "undead",
-      "leader": "Pumpkin King"
+      "recruit": "Whatup",
+      "id": 1
+    },
+    {
+      "recruit": "Billy the Kid",
+      "id": 2
+    },
+    {
+      "recruit": "Another recruit",
+      "id": 3
+    },
+    {
+      "recruit": "hmm...",
+      "id": 4
+    },
+    {
+      "recruit": "One behind",
+      "id": 5
+    },
+    {
+      "recruit": "new Recruit",
+      "id": 6
+    },
+    {
+      "recruit": "ert",
+      "id": 7
+    },
+    {
+      "recruit": "hello",
+      "id": 8
     }
   ],
+  "undead": [],
   "undead_minions": [
     {
       "id": 1,
@@ -20,15 +45,15 @@
     },
     {
       "id": 2,
-      "type": "Necromancer"
+      "type": "frog"
     },
     {
       "id": 3,
-      "type": "Zombie Archer"
+      "type": "frog"
     },
     {
       "id": 4,
-      "type": "Zombie"
+      "type": "frog"
     },
     {
       "id": 5,
@@ -40,7 +65,7 @@
     },
     {
       "id": 7,
-      "type": "Skeleton Archer"
+      "type": "frog"
     },
     {
       "id": 8,
@@ -86,7 +111,7 @@
     },
     {
       "id": 5,
-      "type": "Barbarian"
+      "type": "frog"
     },
     {
       "id": 6,
@@ -122,7 +147,7 @@
     },
     {
       "id": 14,
-      "type": "Barbarian"
+      "type": "frog"
     },
     {
       "id": 15,

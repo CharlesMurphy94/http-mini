@@ -8,7 +8,7 @@ ENEMIES AT OUR GATE! In this mini project we will use `axios` to make requests t
 
 ## Setup
 
-* Open a terminal window:
+<!-- * Open a terminal window:
   * `Fork` and `clone` this repository.
   * Run `npm i` to install dependencies.
   * Run `npm start` to spin up the development server.
@@ -516,9 +516,9 @@ ENEMIES AT OUR GATE! In this mini project we will use `axios` to make requests t
   ```
 
   </details>
+ -->
 
-
-## Step 5: postTroop service
+<!-- ## Step 5: postTroop service
 
 ### Summary
 
@@ -615,7 +615,7 @@ ENEMIES AT OUR GATE! In this mini project we will use `axios` to make requests t
 
   Part 3
 
-  Let's activate edit the input and Enlist button to send our requests.
+  Let's activate the input and Enlist button to send our requests.
   * Inside the input box, add an `onChange` event listener to watch for anything being typed into the box. The value of `onChange` will be an arrow function that passes in the event and then calls our `handleInput` method on that event. This sets our `this.state.newRecruit` value equal to what is being typed.
     <details> <summary> <code> onChange input event </code> </summary>
 
@@ -1020,7 +1020,7 @@ Let's call on the Wizard to help out our troops! The Wizard will make use of the
 
   ```
 
-  </details>
+  </details> -->
 
 
 
